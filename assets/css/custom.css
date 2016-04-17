@@ -146,3 +146,10 @@
     color: black;
     border-color: black;
 }
+
+/* Override Prism style */
+pre[class*="language-"] {
+    margin: 0 0 1.75em 0;
+}
+
+
